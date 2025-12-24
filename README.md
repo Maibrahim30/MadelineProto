@@ -1,3 +1,28 @@
+# Project Name
+
+## Overview
+One paragraph explaining what the project does and why it exists.
+
+## Features
+- Key feature 1
+- Key feature 2
+- Key feature 3
+
+## Tech Stack
+- Swift / SwiftUI / Vapor
+- APIs, tools, frameworks
+
+## Screenshots / Demo
+(Add screenshots, GIFs, or demo links)
+
+## Getting Started
+Steps to run or build the project.
+
+## Status
+Active / Maintained
+
+## License
+MIT (recommended)
 # MadelineProto, a PHP MTProto telegram client
 
 Created by <a href="https://daniil.it" target="_blank" rel="noopener">Daniil Gentili</a>
